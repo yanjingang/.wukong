@@ -1,5 +1,6 @@
 # .wukong
-*checkout到~/.wukong目录
+* checkout到~/.wukong目录
+* wukong-robot安装过程详见：https://github.com/yanjingang/wukong-robot/
 
 
 ## 唤醒词训练(*.pmdl)
