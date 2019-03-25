@@ -1,9 +1,19 @@
-# wukong-snowboy
-悟空机器人唤醒词+conf+插件
+# wukong-plugins
+*checkout到~/.wukong目录
 
-唤醒词为：
+
+##唤醒词
+使用snowboy训练并下载
+https://snowboy.kitt.ai/dashboard
+
+###训练的唤醒词为：
   八戒
   八戒别吵
   八戒醒醒
 
-个性化唤醒词，checkout到~/.wukong目录
+
+
+##插件
+用于意图处理，大部分插件来自于
+https://github.com/wzpan/wukong-contrib
+
