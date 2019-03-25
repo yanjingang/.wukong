@@ -1,8 +1,8 @@
-# wukong-plugins
+# .wukong
 *checkout到~/.wukong目录
 
 
-## 唤醒词(*.pmdl)
+## 唤醒词训练(*.pmdl)
 使用snowboy训练并下载
 https://snowboy.kitt.ai/dashboard
 
@@ -13,7 +13,7 @@ config.yml配置的唤醒词：
 
 
 
-## 贡献插件(contrib/)
+## 自定义插件(contrib/)
 用于特殊意图处理，大部分来自于
 https://github.com/wzpan/wukong-contrib
 
