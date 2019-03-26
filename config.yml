@@ -1,8 +1,8 @@
-robot_name_cn: '孙悟空'
-first_name: '师父'
-last_name: '唐'
+robot_name_cn: '哨兵'
+first_name: '团长'
+last_name: '闫'
 timezone: HKT
-location: '深圳'
+location: '北京'
 
 # 后台管理端
 server:
