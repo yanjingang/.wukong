@@ -105,12 +105,14 @@ nlu_engine: unit
 # 可选值：
 # tuling    - 图灵机器人
 # emotibot  - 小影机器人
-robot: emotibot
+#robot: emotibot
+robot: tuling
 
 # 图灵机器人	
 # http://www.tuling123.com
 tuling:
-    tuling_key: '98f95153fb5c4684a5602b909949ba61'  # 建议使用自己的图灵机器人API Key
+#    tuling_key: '98f95153fb5c4684a5602b909949ba61'  # 建议使用自己的图灵机器人API Key
+    tuling_key: '853e634cd508411685e58d85550f77f6'  # 建议使用自己的图灵机器人API Key
 
 # 小影机器人
 # http://botfactory.emotibot.com/
